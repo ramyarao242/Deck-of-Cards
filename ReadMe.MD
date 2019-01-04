@@ -1,8 +1,7 @@
 Steps:
-
 1. Open this project in any editor
-2. Open the htnl file in a browser
-3. you will be able to see 3 buttons 'shuffle', 'deal a card', 'reset'.
+2. Open the html file in a browser
+3. you will see 3 buttons 'shuffle', 'deal a card', 'reset'.
 4. When you first open it in a browser, you have a new unshuffled deck of cards.
 5. Click on 'shuffle' to make your first shuffle.
 6. click on 'deal a card' to deal one card.
